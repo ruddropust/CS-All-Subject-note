@@ -1,4 +1,4 @@
-# CS-All-Subject-note
+# CSE All Subject note
 
 All core cs fundamental notes at one place
 
